@@ -14,13 +14,13 @@ Before getting started, make sure you have the following installed on your machi
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   npx degit https://github.com/andreasdelu/react-vite-tailwind#main my-project
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd my-project
    ```
 
 3. Install the dependencies:
